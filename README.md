@@ -1,5 +1,5 @@
 #  [Aditya Kailash Nisal](https://adinisal12.wixsite.com/adityanisal)
-👨‍💻 How you doin? Welcome to my GitHub.<br>🤖 I'm a Robotics engineer interested in Perception, Computer Vision, and Deep Learning.<br>💬 Connect with me on [LinkedIn](www.linkedin.com/in/adnl
+👨‍💻 How you doin? Welcome to my GitHub.<br>🤖 As a Robotics engineer I am passionate about Perception, Computer Vision, and Deep Learning.<br>💬 Connect with me on [LinkedIn](www.linkedin.com/in/adnl
 ) or shoot me an [Email](mailto:anisal@wpi.edu).<br>🙋‍♂️Do not forget to check my [Website](https://adinisal12.wixsite.com/adityanisal).
 
 
